@@ -1,0 +1,15 @@
+[project]
+name = "projectwalmart"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "ipykernel>=6.29.5",
+    "kaggle>=1.7.4.2",
+    "matplotlib>=3.10.1",
+    "pandas>=2.2.3",
+    "pymysql>=1.1.1",
+    "seaborn>=0.13.2",
+    "sqlalchemy>=2.0.40",
+]
