@@ -6,6 +6,8 @@
 
 This project is an end-to-end data analysis solution designed to extract insights from Walmart sales data. I have utilized Python for data processing and analysis, SQL for querying, and structured problem-solving techniques to solve some key business questions.
 
+---
+
 
  - **Tools Used**: Visual Studio Code (VS Code), Python, SQL (MySQL)
  - **Dataset Link**: [Walmart Sales Dataset](https://www.kaggle.com/najir0123/walmart-10k-sales-datasets)
@@ -22,8 +24,10 @@ This project is an end-to-end data analysis solution designed to extract insight
  - **Currency Formatting**: Use `.replace()` to handle and format currency values for analysis.
 
 
+
 ## Project Structure
 
+```
 ├── .gitignore
 ├── .python-version
 ├── README.md
@@ -34,6 +38,7 @@ This project is an end-to-end data analysis solution designed to extract insight
 ├── main.ipynb
 ├── pyproject.toml
 └── uv.lock
+```
 
 
 ## Getting Started
